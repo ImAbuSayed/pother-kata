@@ -1,14 +1,14 @@
-# 🎵 পথের কাঁটা (Pother Kata) &#8211; Alternate Version
+# 🎵 পথের কাঁটা (Pother Kata)
         
 *Original song by **[Abu Sayed](https://abusayed.com.bd)***
 
-**Date Written:** March 18, 2025
-**Status:** Published on [abusayed.com.bd](https://abusayed.com.bd/projects/%e0%a6%aa%e0%a6%a5%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%be%e0%a6%81%e0%a6%9f%e0%a6%be-pother-kata-alternate-version/)
+**Date Written:** April 21, 2025
+**Status:** Published on [abusayed.com.bd](https://abusayed.com.bd/projects/%e0%a6%aa%e0%a6%a5%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%be%e0%a6%81%e0%a6%9f%e0%a6%be-pother-kata/)
 
 ---
 
 ## 📖 About this Song
-Song পথের কাঁটা (Pother Kata) – Alternate Version Lyric তুমি আমার স্বপ্ন ছিলে, হারালে কেন দূরেচোখের জলে ভিজে যায়, রাতের শেষ সুরেপ্রতিটি দিন কাটে এই তোমার স্মৃতি নিয়েপথের কাঁটা হয়ে গেছি, নিজের মনে মনে যে প্রেম দিয়েছিলাম তোমায়সেটা কি ছিল অপরাধহৃদয়ের কোণে লুকিয়ে রাখাসব আবেগ ব্যর্থ আজ পথের কাঁটা হয়ে গেছিতোমার জীবন থেকে সরেভালোবাসার নামে […]
+Song পথের কাঁটা (Pother Kata) Lyric আমি পথের কাঁটা হয়ে, দাঁড়িয়ে আছি একাতোমার চোখে দেখা যায়, অন্য কারো ছায়াউচ্চ স্বরে চিৎকার করি, তবুও শুনতে পাও নাআমার অস্তিত্ব তোমার কাছে, আজ অদৃশ্য হয়ে যায় জীবনের পথে হেঁটে গেলেআমাকে ডিঙিয়ে চলে যাওআমার প্রতিটি ভালোবাসাতোমার কাছে শুধুই বোঝা পথের কাঁটা হয়ে গেছিতোমার যাওয়া আসার পথেঝড়ের রাতে তুমি শুধুআমাকে […]
 
 ---
 
